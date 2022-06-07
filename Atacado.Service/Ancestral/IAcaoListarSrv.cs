@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atacado.POCO
+namespace Atacado.Service.Estoque
 {
-    internal class RegiaoPOCO
-    {
+    public interface IAcaoListarSrv<T>
 
+    {
+        List<T> Listar();
     }
 }

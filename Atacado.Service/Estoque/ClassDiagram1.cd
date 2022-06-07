@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Atacado.POCO.Estoque.CategoriaService" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAIEAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estoque\CategoriaService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Atacado.Service.Estoque.IAcaoAlterarSrv&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ancestral\IAcaoAlterarSrv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Atacado.Service.Estoque.IAcaoAdcionarSrv&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ancestral\IAcaoAdcionarSrv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Atacado.Service.Estoque.IAcaoExcluirSrv&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ancestral\IAcaoExcluirSrv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Atacado.Service.Estoque.IAcaoListarSrv&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ancestral\IAcaoListarSrv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Atacado.Service.Estoque.IAcaoSelecionarSrv&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ancestral\IAcaoSelecionarSrv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

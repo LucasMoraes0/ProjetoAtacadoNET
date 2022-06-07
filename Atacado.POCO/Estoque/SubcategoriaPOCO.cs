@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Atacado.POCO.Estoque
 {
-    internal class SubcategoriaPOCO
+    public class SubcategoriaPOCO
     {
         public int Codigo { get; set; }
         public int CodigoCategoria { get; set; }

@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Atacado.POCO
 {
-    internal class MunicipioPOCO
+    public class MunicipioPOCO
     {
+        public int Codigo { get; set; }
+        public string Descricao { get; set; }
         public int CodigoUF { get; set; }
         public string SiglaUF { get; set; }
         public int CodigoMesoregiao { get; set; }

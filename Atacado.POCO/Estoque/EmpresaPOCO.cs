@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Atacado.POCO.Estoque
 {
-    internal class EmpresaPOCO
+    public class EmpresaPOCO
     {
        
         public string RazaoSocial { get; set; }

@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Atacado.POCO.Estoque
 {
-    internal class EstadoPOCO
+    public class EstadoPOCO
     {
-        private string RiglaUF { get; set; }
-        private string RegiaoBrasil { get; set; }
+        public int Codigo { get; set; }
+        public string Descricao { get; set; }
         public string SiglaUF { get; set; }
-        public string Regiaobrasil { get; set; }
+        public string RegiaoBrasil { get; set; }
+
     }
 }
+ 
